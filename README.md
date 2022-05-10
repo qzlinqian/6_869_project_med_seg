@@ -13,3 +13,10 @@ This repo mains the project I did for MIT 6.869 Spring 2022, which is medical se
 | ------------------------ | ------------------------ | ----------------------- | ------------------------- |
 | CT image                 | True label               | Prediction              | Fused prediction          |
 
+### How to use
+
+* **segmentation.ipynb** contains the main code for training and visualization
+* **helper_function_seg.ipynb** has some helper functions (for data preparation, generating images for the report, display 3D image as gif)
+* **models/** contains the trained model.
+* **videos/** contains the test results on a CT image (see details [here](videos/readme.md)).
+

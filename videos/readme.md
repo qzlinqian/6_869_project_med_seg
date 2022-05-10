@@ -8,3 +8,5 @@ The files in this folder are the test results on the CT image No.0 in the test [
 * **pred_axis0.mp4**: the predicted label along X axis
 * **pred_axis1.mp4**: the predicted label along Y axis
 * **pred_final.mp4**: the fused label of the three directions
+
+Since the network was trained only on Z axis, the results for X and Y axes are not accurate. This fusion result is just an explanation of the idea.
