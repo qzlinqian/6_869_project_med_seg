@@ -1,5 +1,5 @@
 # Liver and Tumor Segmentation for CT Images with U-Net
-This repo mains the project I did for MIT 6.869 Spring 2022, which is medical segmentation of liver and tumor.
+This repo maintains the project I did for MIT 6.869 Spring 2022, which is medical segmentation of liver and tumor.
 
 ### Method
 
